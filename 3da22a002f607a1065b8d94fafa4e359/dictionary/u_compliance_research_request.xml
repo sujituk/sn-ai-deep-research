@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="afd662442fa07a1065b8d94fafa4e310" extends="task" max_length="40" name="u_compliance_research_request" type="collection">
+    <element db_object_id="afd662442fa07a1065b8d94fafa4e310" extends="task" label="Compliance Research Request" max_length="40" name="u_compliance_research_request" type="collection">
         <element choice="3" label="Risk level" max_length="40" name="u_risk_level" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Medium" sequence="1" value="medium"/>
