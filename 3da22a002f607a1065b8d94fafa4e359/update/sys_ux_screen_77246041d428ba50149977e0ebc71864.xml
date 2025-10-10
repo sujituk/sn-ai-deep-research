@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="Compliance Research Workspace App Config">732460416c28ba50b6e95f92541a338e</app_config>
+        <description/>
+        <disable_auto_reflow>false</disable_auto_reflow>
+        <disable_interoperable>false</disable_interoperable>
+        <event_mappings/>
+        <macroponent display_value="Visualization designer">2d5dcc29c3110110d938e4788940dd8f</macroponent>
+        <macroponent_config/>
+        <name>Visualization Designer Default</name>
+        <order>0</order>
+        <parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <required_translations>[ ]</required_translations>
+        <rollback_screen/>
+        <screen_condition/>
+        <screen_type display_value="Visualization Designer">732460416828ba5021fa1843f0ef3e85</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-10 18:44:36</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>77246041d428ba50149977e0ebc71864</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Visualization Designer Default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="AI Compliant Deep Research app" source="3da22a002f607a1065b8d94fafa4e359">3da22a002f607a1065b8d94fafa4e359</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AI Compliant Deep Research app">3da22a002f607a1065b8d94fafa4e359</sys_scope>
+        <sys_update_name>sys_ux_screen_77246041d428ba50149977e0ebc71864</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-10 18:44:36</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=77246041d428ba50149977e0ebc71864"/>
+</record_update>

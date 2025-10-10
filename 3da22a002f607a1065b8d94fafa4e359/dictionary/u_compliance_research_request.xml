@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="afd662442fa07a1065b8d94fafa4e310" extends="task" label="Compliance Research Request" max_length="40" name="u_compliance_research_request" type="collection">
-        <element choice="3" label="Risk level" max_length="40" name="u_risk_level" type="choice">
-            <choice>
-                <element inactive_on_update="false" label="Medium" sequence="1" value="medium"/>
-                <element inactive_on_update="false" label="Low" sequence="0" value="low"/>
-                <element inactive_on_update="false" label="High" sequence="2" value="high"/>
-            </choice>
-        </element>
-        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="u_number" type="string"/>
+    <element audit="true" db_object_id="afd662442fa07a1065b8d94fafa4e310" extends="task" label="Compliance Research Request" max_length="40" name="u_compliance_research_request" text_index="true" type="collection">
         <element choice="3" label="Stage" max_length="40" name="u_stage" type="choice">
             <choice>
-                <element inactive_on_update="false" label="Intake" sequence="0" value="intake"/>
-                <element inactive_on_update="false" label="Review" sequence="2" value="review"/>
                 <element inactive_on_update="false" label="Complete" sequence="3" value="complete"/>
+                <element inactive_on_update="false" label="Review" sequence="2" value="review"/>
                 <element inactive_on_update="false" label="Research" sequence="1" value="research"/>
-            </choice>
-        </element>
-        <element label="Executive sponsor" max_length="32" name="u_executive_sponsor" reference="sys_user" type="reference"/>
-        <element label="Linked Knowledge" max_length="32" name="u_linked_knowledge" reference="kb_knowledge" type="reference"/>
-        <element label="Due date" max_length="40" name="u_due_date" type="glide_date_time"/>
-        <element label="Summary" max_length="160" name="u_summary" type="string"/>
-        <element label="Details" max_length="40" name="u_details" type="html"/>
-        <element choice="3" label="Regulatory driver" max_length="40" name="u_regulatory_driver" type="choice">
-            <choice>
-                <element inactive_on_update="false" label="GDPR" sequence="0" value="gdpr"/>
-                <element inactive_on_update="false" label="PCI" sequence="3" value="pci"/>
-                <element inactive_on_update="false" label="SOX" sequence="2" value="sox"/>
-                <element inactive_on_update="false" label="Other" sequence="4" value="other"/>
-                <element inactive_on_update="false" label="HIPAA" sequence="1" value="hipaa"/>
+                <element inactive_on_update="false" label="Intake" sequence="0" value="intake"/>
             </choice>
         </element>
         <element label="Business unit" max_length="32" name="u_business_unit" reference="cmn_department" type="reference"/>
+        <element label="Details" max_length="40" name="u_details" type="html"/>
+        <element label="Linked Knowledge" max_length="32" name="u_linked_knowledge" reference="kb_knowledge" type="reference"/>
+        <element choice="3" display="true" label="Risk level" max_length="40" name="u_risk_level" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Low" sequence="0" value="low"/>
+                <element inactive_on_update="false" label="High" sequence="2" value="high"/>
+                <element inactive_on_update="false" label="Medium" sequence="1" value="medium"/>
+            </choice>
+        </element>
+        <element label="Executive sponsor" max_length="32" name="u_executive_sponsor" reference="sys_user" type="reference"/>
+        <element label="Summary" max_length="160" name="u_summary" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="u_number" type="string"/>
+        <element choice="3" label="Regulatory driver" max_length="40" name="u_regulatory_driver" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="PCI" sequence="3" value="pci"/>
+                <element inactive_on_update="false" label="GDPR" sequence="0" value="gdpr"/>
+                <element inactive_on_update="false" label="SOX" sequence="2" value="sox"/>
+                <element inactive_on_update="false" label="HIPAA" sequence="1" value="hipaa"/>
+                <element inactive_on_update="false" label="Other" sequence="4" value="other"/>
+            </choice>
+        </element>
+        <element label="Due date" max_length="40" name="u_due_date" type="glide_date_time"/>
     </element>
 </database>

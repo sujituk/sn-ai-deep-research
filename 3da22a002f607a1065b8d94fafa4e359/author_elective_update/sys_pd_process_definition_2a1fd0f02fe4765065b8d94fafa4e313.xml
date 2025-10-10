@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_pd_process_definition">
+    <sys_pd_process_definition action="DELETE">
+        <access>public</access>
+        <active>true</active>
+        <description/>
+        <designer_state>{"diagram":{"hiddenElements":{"edges":{}}}}</designer_state>
+        <engine_major_version/>
+        <label>Compliance Research Request playbook</label>
+        <name>compliance_research_request_playbook</name>
+        <now_assist_prompt/>
+        <permission>{}</permission>
+        <process_type/>
+        <restartable>RESTARTABLE_FALSE</restartable>
+        <run_on_pad_engine>false</run_on_pad_engine>
+        <run_strategy>run_once</run_strategy>
+        <run_strategy_on_process_definition>true</run_strategy_on_process_definition>
+        <schema_version>3</schema_version>
+        <snapshot/>
+        <start_non_blocking>true</start_non_blocking>
+        <status>draft</status>
+        <sync_state>IN_PROGRESS</sync_state>
+        <synced_on/>
+        <sys_class_name>sys_pd_process_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-09 23:43:51</sys_created_on>
+        <sys_id>2a1fd0f02fe4765065b8d94fafa4e313</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Compliance Research Request playbook</sys_name>
+        <sys_package display_value="AI Compliant Deep Research app" source="3da22a002f607a1065b8d94fafa4e359">3da22a002f607a1065b8d94fafa4e359</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AI Compliant Deep Research app">3da22a002f607a1065b8d94fafa4e359</sys_scope>
+        <sys_update_name>sys_pd_process_definition_2a1fd0f02fe4765065b8d94fafa4e313</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-09 23:44:37</sys_updated_on>
+        <view_type>DIAGRAM</view_type>
+    </sys_pd_process_definition>
+    <sys_pd_process_input action="DELETE" query="model=2a1fd0f02fe4765065b8d94fafa4e313"/>
+    <sys_pd_process_output action="DELETE" query="model=2a1fd0f02fe4765065b8d94fafa4e313"/>
+    <sys_pd_lane action="DELETE" query="process_definition=2a1fd0f02fe4765065b8d94fafa4e313^sys_idNOT INe8e5bb57edb963d0e3a47e75b0e840d5"/>
+    <sys_pd_lane action="DELETE">
+        <active>true</active>
+        <condition_to_run/>
+        <description/>
+        <label>Intake</label>
+        <lane_condition/>
+        <name>new_stage</name>
+        <order>1</order>
+        <permission>{}</permission>
+        <process_definition display_value="Compliance Research Request playbook">2a1fd0f02fe4765065b8d94fafa4e313</process_definition>
+        <restart_rule>RUN_ONLY_ONCE</restart_rule>
+        <start_rule/>
+        <start_rule_name>immediate</start_rule_name>
+        <start_rule_vars/>
+        <starts_after_activities/>
+        <starts_after_branches/>
+        <starts_after_lanes/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-09 23:44:28</sys_created_on>
+        <sys_id>e8e5bb57edb963d0e3a47e75b0e840d5</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-09 23:44:36</sys_updated_on>
+        <visible_rule/>
+    </sys_pd_lane>
+    <sys_variable_value action="DELETE" query="document_key=e8e5bb57edb963d0e3a47e75b0e840d5"/>
+    <sys_pd_timer_attributes action="DELETE" query="process_definition=2a1fd0f02fe4765065b8d94fafa4e313"/>
+    <sys_pd_activity action="DELETE" query="process_definition=2a1fd0f02fe4765065b8d94fafa4e313"/>
+    <sys_pd_process_variant action="DELETE" query="process_definition=2a1fd0f02fe4765065b8d94fafa4e313"/>
+    <sys_pd_process_definition action="DELETE">
+        <access>public</access>
+        <active>true</active>
+        <description/>
+        <designer_state>{"diagram":{"hiddenElements":{"edges":{}}}}</designer_state>
+        <engine_major_version/>
+        <label>Compliance Research Request playbook</label>
+        <name>compliance_research_request_playbook</name>
+        <now_assist_prompt/>
+        <permission>{}</permission>
+        <process_type/>
+        <restartable>RESTARTABLE_FALSE</restartable>
+        <run_on_pad_engine>false</run_on_pad_engine>
+        <run_strategy>run_once</run_strategy>
+        <run_strategy_on_process_definition>true</run_strategy_on_process_definition>
+        <schema_version>3</schema_version>
+        <snapshot/>
+        <start_non_blocking>true</start_non_blocking>
+        <status>draft</status>
+        <sync_state>COMPLETE</sync_state>
+        <synced_on/>
+        <sys_class_name>sys_pd_process_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-09 23:43:51</sys_created_on>
+        <sys_id>2a1fd0f02fe4765065b8d94fafa4e313</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Compliance Research Request playbook</sys_name>
+        <sys_package display_value="AI Compliant Deep Research app" source="3da22a002f607a1065b8d94fafa4e359">3da22a002f607a1065b8d94fafa4e359</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AI Compliant Deep Research app">3da22a002f607a1065b8d94fafa4e359</sys_scope>
+        <sys_update_name>sys_pd_process_definition_2a1fd0f02fe4765065b8d94fafa4e313</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-09 23:44:37</sys_updated_on>
+        <view_type>DIAGRAM</view_type>
+    </sys_pd_process_definition>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="AI Compliant Deep Research app">3da22a002f607a1065b8d94fafa4e359</application>
+        <file_path/>
+        <instance_id>e2f27be7fbb3a6505704f3585eefdcbb</instance_id>
+        <instance_name>skplayground</instance_name>
+        <name>sys_pd_process_definition_2a1fd0f02fe4765065b8d94fafa4e313</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_pd_process_definition"><sys_pd_process_definition action="INSERT_OR_UPDATE"><access>public</access><active>true</active><description/><designer_state>{"diagram":{"hiddenElements":{"edges":{}}}}</designer_state><engine_major_version/><label>Compliance Research Request playbook</label><name>compliance_research_request_playbook</name><now_assist_prompt/><permission>{}</permission><process_type/><restartable>RESTARTABLE_FALSE</restartable><run_on_pad_engine>false</run_on_pad_engine><run_strategy>run_once</run_strategy><run_strategy_on_process_definition>true</run_strategy_on_process_definition><schema_version>3</schema_version><snapshot/><start_non_blocking>true</start_non_blocking><status>draft</status><sync_state>IN_PROGRESS</sync_state><synced_on/><sys_class_name>sys_pd_process_definition</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-10-09 23:43:51</sys_created_on><sys_id>2a1fd0f02fe4765065b8d94fafa4e313</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Compliance Research Request playbook</sys_name><sys_package display_value="AI Compliant Deep Research app" source="3da22a002f607a1065b8d94fafa4e359">3da22a002f607a1065b8d94fafa4e359</sys_package><sys_policy/><sys_scope display_value="AI Compliant Deep Research app">3da22a002f607a1065b8d94fafa4e359</sys_scope><sys_update_name>sys_pd_process_definition_2a1fd0f02fe4765065b8d94fafa4e313</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-10-09 23:44:37</sys_updated_on><view_type>DIAGRAM</view_type></sys_pd_process_definition><sys_pd_process_input action="delete_multiple" query="model=2a1fd0f02fe4765065b8d94fafa4e313"/><sys_pd_process_output action="delete_multiple" query="model=2a1fd0f02fe4765065b8d94fafa4e313"/><sys_pd_lane action="delete_multiple" query="process_definition=2a1fd0f02fe4765065b8d94fafa4e313^sys_idNOT INe8e5bb57edb963d0e3a47e75b0e840d5"/><sys_pd_lane action="INSERT_OR_UPDATE"><active>true</active><condition_to_run/><description/><label>Intake</label><lane_condition/><name>new_stage</name><order>1</order><permission>{}</permission><process_definition display_value="Compliance Research Request playbook">2a1fd0f02fe4765065b8d94fafa4e313</process_definition><restart_rule>RUN_ONLY_ONCE</restart_rule><start_rule/><start_rule_name>immediate</start_rule_name><start_rule_vars/><starts_after_activities/><starts_after_branches/><starts_after_lanes/><sys_created_by>admin</sys_created_by><sys_created_on>2025-10-09 23:44:28</sys_created_on><sys_id>e8e5bb57edb963d0e3a47e75b0e840d5</sys_id><sys_mod_count>1</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-10-09 23:44:36</sys_updated_on><visible_rule/></sys_pd_lane><sys_variable_value action="delete_multiple" query="document_key=e8e5bb57edb963d0e3a47e75b0e840d5"/><sys_pd_timer_attributes action="delete_multiple" query="process_definition=2a1fd0f02fe4765065b8d94fafa4e313"/><sys_pd_activity action="delete_multiple" query="process_definition=2a1fd0f02fe4765065b8d94fafa4e313"/><sys_pd_process_variant action="delete_multiple" query="process_definition=2a1fd0f02fe4765065b8d94fafa4e313"/><sys_pd_process_definition action="INSERT_OR_UPDATE"><access>public</access><active>true</active><description/><designer_state>{"diagram":{"hiddenElements":{"edges":{}}}}</designer_state><engine_major_version/><label>Compliance Research Request playbook</label><name>compliance_research_request_playbook</name><now_assist_prompt/><permission>{}</permission><process_type/><restartable>RESTARTABLE_FALSE</restartable><run_on_pad_engine>false</run_on_pad_engine><run_strategy>run_once</run_strategy><run_strategy_on_process_definition>true</run_strategy_on_process_definition><schema_version>3</schema_version><snapshot/><start_non_blocking>true</start_non_blocking><status>draft</status><sync_state>COMPLETE</sync_state><synced_on/><sys_class_name>sys_pd_process_definition</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-10-09 23:43:51</sys_created_on><sys_id>2a1fd0f02fe4765065b8d94fafa4e313</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Compliance Research Request playbook</sys_name><sys_package display_value="AI Compliant Deep Research app" source="3da22a002f607a1065b8d94fafa4e359">3da22a002f607a1065b8d94fafa4e359</sys_package><sys_policy/><sys_scope display_value="AI Compliant Deep Research app">3da22a002f607a1065b8d94fafa4e359</sys_scope><sys_update_name>sys_pd_process_definition_2a1fd0f02fe4765065b8d94fafa4e313</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-10-09 23:44:37</sys_updated_on><view_type>DIAGRAM</view_type></sys_pd_process_definition></record_update>]]></payload>
+        <payload_hash>-1507267252</payload_hash>
+        <record_name>Compliance Research Request playbook</record_name>
+        <reverted_from/>
+        <source>434b40e22f5072104163174fafa4e3ca</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2025-10-09 23:44:37</sys_created_on>
+        <sys_id>394f90342fe4765065b8d94fafa4e372</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>199cb5cc1d90000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2025-10-09 23:44:37</sys_updated_on>
+        <type>Process Definition</type>
+        <update_guid>b94f903494e476500083a1d1bbf4e171</update_guid>
+        <update_guid_history>b94f903494e476500083a1d1bbf4e171:-1507267252,a33fdcf0fee47650ff4cceabc219e774:-542287900,e61fd0f088e47650af8d50ce84a14d6d:920071965</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-10 17:41:09</sys_created_on>
+        <sys_db_object display_value="" name="sys_pd_process_definition">sys_pd_process_definition</sys_db_object>
+        <sys_id>5f9e0ff6570444cf82157c62c86f10c1</sys_id>
+        <sys_metadata>2a1fd0f02fe4765065b8d94fafa4e313</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Compliance Research Request playbook</sys_name>
+        <sys_package display_value="AI Compliant Deep Research app" source="3da22a002f607a1065b8d94fafa4e359">3da22a002f607a1065b8d94fafa4e359</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="AI Compliant Deep Research app">3da22a002f607a1065b8d94fafa4e359</sys_scope>
+        <sys_scope_delete display_value="">4b6659be2f724c2fa042b59a8543c009</sys_scope_delete>
+        <sys_update_name>sys_pd_process_definition_2a1fd0f02fe4765065b8d94fafa4e313</sys_update_name>
+        <sys_update_version display_value="sys_pd_process_definition_2a1fd0f02fe4765065b8d94fafa4e313">394f90342fe4765065b8d94fafa4e372</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-10 17:41:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

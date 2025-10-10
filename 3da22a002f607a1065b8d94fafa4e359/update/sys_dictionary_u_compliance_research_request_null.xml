@@ -3,7 +3,7 @@
         <active>true</active>
         <array>false</array>
         <attributes/>
-        <audit>false</audit>
+        <audit>true</audit>
         <calculation/>
         <choice>0</choice>
         <choice_field/>
@@ -53,9 +53,9 @@
         <sys_scope display_value="AI Compliant Deep Research app">3da22a002f607a1065b8d94fafa4e359</sys_scope>
         <sys_update_name>sys_dictionary_u_compliance_research_request_null</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-10-08 01:41:35</sys_updated_on>
+        <sys_updated_on>2025-10-10 19:34:19</sys_updated_on>
         <table_reference>false</table_reference>
-        <text_index>false</text_index>
+        <text_index>true</text_index>
         <unique>false</unique>
         <use_dependent_field>false</use_dependent_field>
         <use_dynamic_default>false</use_dynamic_default>
@@ -69,7 +69,7 @@
     <sys_claim action="INSERT_OR_UPDATE">
         <claim_owner_scope display_value="AI Compliant Deep Research app">3da22a002f607a1065b8d94fafa4e359</claim_owner_scope>
         <claim_timestamp>199c18a5c330000001</claim_timestamp>
-        <metadata_update_name>sys_dictionary_u_compliance_research_request_null</metadata_update_name>
+        <metadata_update_name>sys_dictionary_u_compliance_research_request_NULL</metadata_update_name>
         <previous_claim_app_version>1.0.0</previous_claim_app_version>
         <previous_claim_name>AI Compliant Deep Research app</previous_claim_name>
         <previous_claim_scope>3da22a002f607a1065b8d94fafa4e359</previous_claim_scope>
