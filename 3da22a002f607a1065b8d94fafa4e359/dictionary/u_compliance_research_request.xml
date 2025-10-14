@@ -2,10 +2,10 @@
     <element audit="true" db_object_id="afd662442fa07a1065b8d94fafa4e310" extends="task" label="Compliance Research Request" max_length="40" name="u_compliance_research_request" text_index="true" type="collection">
         <element choice="3" label="Stage" max_length="40" name="u_stage" type="choice">
             <choice>
-                <element inactive_on_update="false" label="Complete" sequence="3" value="complete"/>
-                <element inactive_on_update="false" label="Review" sequence="2" value="review"/>
                 <element inactive_on_update="false" label="Research" sequence="1" value="research"/>
+                <element inactive_on_update="false" label="Complete" sequence="3" value="complete"/>
                 <element inactive_on_update="false" label="Intake" sequence="0" value="intake"/>
+                <element inactive_on_update="false" label="Review" sequence="2" value="review"/>
             </choice>
         </element>
         <element label="Business unit" max_length="32" name="u_business_unit" reference="cmn_department" type="reference"/>
@@ -23,11 +23,11 @@
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="u_number" type="string"/>
         <element choice="3" label="Regulatory driver" max_length="40" name="u_regulatory_driver" type="choice">
             <choice>
-                <element inactive_on_update="false" label="PCI" sequence="3" value="pci"/>
-                <element inactive_on_update="false" label="GDPR" sequence="0" value="gdpr"/>
                 <element inactive_on_update="false" label="SOX" sequence="2" value="sox"/>
-                <element inactive_on_update="false" label="HIPAA" sequence="1" value="hipaa"/>
+                <element inactive_on_update="false" label="GDPR" sequence="0" value="gdpr"/>
+                <element inactive_on_update="false" label="PCI" sequence="3" value="pci"/>
                 <element inactive_on_update="false" label="Other" sequence="4" value="other"/>
+                <element inactive_on_update="false" label="HIPAA" sequence="1" value="hipaa"/>
             </choice>
         </element>
         <element label="Due date" max_length="40" name="u_due_date" type="glide_date_time"/>

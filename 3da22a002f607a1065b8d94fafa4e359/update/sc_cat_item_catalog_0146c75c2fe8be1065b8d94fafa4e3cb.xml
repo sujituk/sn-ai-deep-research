@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
     <sc_cat_item_catalog action="INSERT_OR_UPDATE">
-        <sc_cat_item display_value="Compliance Research Request">7846c75c2fe8be1065b8d94fafa4e3c5</sc_cat_item>
+        <sc_cat_item display_value="Compliance Research  Request">7846c75c2fe8be1065b8d94fafa4e3c5</sc_cat_item>
         <sc_catalog display_value="Employee Services">16c107142fa8be1065b8d94fafa4e3b0</sc_catalog>
         <sys_class_name>sc_cat_item_catalog</sys_class_name>
         <sys_created_by>admin</sys_created_by>
