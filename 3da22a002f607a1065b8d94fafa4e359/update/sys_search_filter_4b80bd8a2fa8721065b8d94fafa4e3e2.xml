@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_filter">
+    <sys_search_filter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ais_search_source display_value="Compliance Research Request">1a44ac412f28ba5065b8d94fafa4e3f5</ais_search_source>
+        <label>Compliance Research Request</label>
+        <name>Compliance Research Request</name>
+        <order>100</order>
+        <search_context_config display_value="AI Compliant Deep Research app AI Search Configuration">4c80b98a0ca8721070e2fe0c1deaf83f</search_context_config>
+        <sys_class_name>sys_search_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-14 02:52:06</sys_created_on>
+        <sys_id>4b80bd8a2fa8721065b8d94fafa4e3e2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Compliance Research Request</sys_name>
+        <sys_package display_value="AI Compliant Deep Research app" source="3da22a002f607a1065b8d94fafa4e359">3da22a002f607a1065b8d94fafa4e359</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AI Compliant Deep Research app">3da22a002f607a1065b8d94fafa4e359</sys_scope>
+        <sys_update_name>sys_search_filter_4b80bd8a2fa8721065b8d94fafa4e3e2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-14 02:52:06</sys_updated_on>
+    </sys_search_filter>
+</record_update>

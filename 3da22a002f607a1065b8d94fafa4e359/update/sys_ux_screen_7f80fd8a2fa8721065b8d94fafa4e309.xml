@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="AI Compliant Deep Research app App Config">c080b98a93a87210e89f09f4621be446</app_config>
+        <description/>
+        <disable_auto_reflow>false</disable_auto_reflow>
+        <disable_interoperable>false</disable_interoperable>
+        <event_mappings/>
+        <macroponent display_value="Compliance Research Request Record Page">c380fd8a2fa8721065b8d94fafa4e302</macroponent>
+        <macroponent_config/>
+        <name>Compliance Research Request Record Page</name>
+        <order>100</order>
+        <parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <required_translations>[ ]</required_translations>
+        <rollback_screen/>
+        <screen_condition>table=u_compliance_research_request</screen_condition>
+        <screen_type display_value="Record">cc80b98ad2a87210e17aa6380a91d93d</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-14 02:52:09</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7f80fd8a2fa8721065b8d94fafa4e309</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Compliance Research Request Record Page</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="AI Compliant Deep Research app" source="3da22a002f607a1065b8d94fafa4e359">3da22a002f607a1065b8d94fafa4e359</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AI Compliant Deep Research app">3da22a002f607a1065b8d94fafa4e359</sys_scope>
+        <sys_update_name>sys_ux_screen_7f80fd8a2fa8721065b8d94fafa4e309</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-14 02:52:09</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=7f80fd8a2fa8721065b8d94fafa4e309"/>
+</record_update>

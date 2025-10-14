@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">cc9031ca2fa8721065b8d94fafa4e38a</canvas>
+        <component display_value="Heading">1f6e0643eca7a637e36bd7833549ec9e</component>
+        <component_props>{"variant":"header-primary","label":"Happening Now","wontWrap":false,"hasNoMargin":false,"level":"1","filterConfigurations":[],"noDebounce":"","contextMenuActions":[]}</component_props>
+        <h>3</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-14 02:52:11</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c49031ca2fa8721065b8d94fafa4e3d4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="AI Compliant Deep Research app" source="3da22a002f607a1065b8d94fafa4e359">3da22a002f607a1065b8d94fafa4e359</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AI Compliant Deep Research app">3da22a002f607a1065b8d94fafa4e359</sys_scope>
+        <sys_update_name>par_dashboard_widget_c49031ca2fa8721065b8d94fafa4e3d4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-14 02:52:11</sys_updated_on>
+        <visualization/>
+        <w>47</w>
+        <widget_props/>
+        <x>0</x>
+        <y>0</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="AI Compliant Deep Research app">3da22a002f607a1065b8d94fafa4e359</application>
+        <file_path/>
+        <instance_id>e2f27be7fbb3a6505704f3585eefdcbb</instance_id>
+        <instance_name>skplayground</instance_name>
+        <name>par_dashboard_widget_c49031ca2fa8721065b8d94fafa4e3d4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">cc9031ca2fa8721065b8d94fafa4e38a</canvas><component display_value="Heading">1f6e0643eca7a637e36bd7833549ec9e</component><component_props>{"variant":"header-primary","label":"Happening Now","wontWrap":false,"hasNoMargin":false,"level":"1","filterConfigurations":[],"noDebounce":"","contextMenuActions":[]}</component_props><h>3</h><name/><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-10-14 02:52:11</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>c49031ca2fa8721065b8d94fafa4e3d4</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="AI Compliant Deep Research app" source="3da22a002f607a1065b8d94fafa4e359">3da22a002f607a1065b8d94fafa4e359</sys_package><sys_policy/><sys_scope display_value="AI Compliant Deep Research app">3da22a002f607a1065b8d94fafa4e359</sys_scope><sys_update_name>par_dashboard_widget_c49031ca2fa8721065b8d94fafa4e3d4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-10-14 02:52:11</sys_updated_on><visualization/><w>47</w><widget_props/><x>0</x><y>0</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>-700268842</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>b4e26c492f64ba5065b8d94fafa4e353</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-14 02:52:11</sys_created_on>
+        <sys_id>449031ca2fa8721065b8d94fafa4e3d6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>199e0a1e9910000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-14 02:52:11</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>889031ca72a87210de06d24791d0a9d5</update_guid>
+        <update_guid_history>889031ca72a87210de06d24791d0a9d5:-700268842</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">fc9071ca2fa8721065b8d94fafa4e3b6</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-14 02:52:13</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>77615969240743c4bf59b78a427c1219</sys_id>
+        <sys_metadata>c49031ca2fa8721065b8d94fafa4e3d4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="AI Compliant Deep Research app" source="3da22a002f607a1065b8d94fafa4e359">3da22a002f607a1065b8d94fafa4e359</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="AI Compliant Deep Research app">3da22a002f607a1065b8d94fafa4e359</sys_scope>
+        <sys_scope_delete display_value="">4b6659be2f724c2fa042b59a8543c009</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_c49031ca2fa8721065b8d94fafa4e3d4</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_c49031ca2fa8721065b8d94fafa4e3d4">449031ca2fa8721065b8d94fafa4e3d6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-14 02:52:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
