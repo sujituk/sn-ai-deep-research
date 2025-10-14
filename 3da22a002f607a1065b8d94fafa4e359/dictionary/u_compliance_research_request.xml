@@ -12,7 +12,7 @@
         </element>
         <element label="Business unit" max_length="32" name="u_business_unit" reference="cmn_department" type="reference"/>
         <element label="Details" max_length="40" name="u_details" type="html"/>
-        <element choice="3" display="true" label="Risk level" max_length="40" name="u_risk_level" type="choice">
+        <element choice="3" label="Risk level" max_length="40" name="u_risk_level" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Medium" sequence="1" value="medium"/>
                 <element inactive_on_update="false" label="Low" sequence="0" value="low"/>

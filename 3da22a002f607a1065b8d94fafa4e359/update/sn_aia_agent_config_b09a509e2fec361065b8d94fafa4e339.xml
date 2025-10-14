@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_aia_agent_config">
+    <sn_aia_agent_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <agent display_value="AI Compliant Deep Research request intaker">f377d89e2fac361065b8d94fafa4e368</agent>
+        <doc_url/>
+        <icon_url/>
+        <public>false</public>
+        <run_as_user/>
+        <sys_class_name>sn_aia_agent_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-14 15:14:58</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>b09a509e2fec361065b8d94fafa4e339</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="AI Compliant Deep Research app" source="3da22a002f607a1065b8d94fafa4e359">3da22a002f607a1065b8d94fafa4e359</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AI Compliant Deep Research app">3da22a002f607a1065b8d94fafa4e359</sys_scope>
+        <sys_update_name>sn_aia_agent_config_b09a509e2fec361065b8d94fafa4e339</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-14 15:14:58</sys_updated_on>
+    </sn_aia_agent_config>
+</record_update>
