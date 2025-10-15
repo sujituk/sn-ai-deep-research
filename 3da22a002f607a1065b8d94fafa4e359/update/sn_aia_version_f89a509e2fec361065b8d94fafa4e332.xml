@@ -1,17 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_aia_version">
     <sn_aia_version action="INSERT_OR_UPDATE">
         <condition/>
-        <instructions>1. Ask the user what they would like to call the record.
-2. Ask the user to set the priority
-3. Ask the user to set the other fields as necessary
-3. Save the record</instructions>
+        <instructions>1. Ask the user information needed to use the AI Compliant Deep Research record creater tool.
+3. Do not aks for any more question</instructions>
         <state>published</state>
         <sys_class_name>sn_aia_version</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-10-14 15:14:58</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_id>f89a509e2fec361065b8d94fafa4e332</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>V1</sys_name>
         <sys_overrides/>
         <sys_package display_value="AI Compliant Deep Research app" source="3da22a002f607a1065b8d94fafa4e359">3da22a002f607a1065b8d94fafa4e359</sys_package>
@@ -19,7 +17,7 @@
         <sys_scope display_value="AI Compliant Deep Research app">3da22a002f607a1065b8d94fafa4e359</sys_scope>
         <sys_update_name>sn_aia_version_f89a509e2fec361065b8d94fafa4e332</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-10-14 15:14:58</sys_updated_on>
+        <sys_updated_on>2025-10-15 00:01:08</sys_updated_on>
         <target_id>f377d89e2fac361065b8d94fafa4e368</target_id>
         <target_table>sn_aia_agent</target_table>
         <version_name>V1</version_name>
