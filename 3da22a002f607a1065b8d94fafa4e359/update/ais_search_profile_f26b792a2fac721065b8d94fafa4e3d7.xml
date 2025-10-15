@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile">
+    <ais_search_profile action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <creator_source/>
+        <description>Search profile for compliance research KB and external sources</description>
+        <exclude_from_evaluation>false</exclude_from_evaluation>
+        <genius_result_assembly/>
+        <label>Compliance Research Search Profile</label>
+        <name>compliance_research_search_profile</name>
+        <publish_id>fef54b72-3da8-49c6-8673-79db48d700f3</publish_id>
+        <qna_model_id>bert-qa-model-1.1.6</qna_model_id>
+        <state>PUBLISHED</state>
+        <sys_class_name>ais_search_profile</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-15 16:57:23</sys_created_on>
+        <sys_id>f26b792a2fac721065b8d94fafa4e3d7</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Compliance Research Search Profile</sys_name>
+        <sys_package display_value="AI Compliant Deep Research app" source="3da22a002f607a1065b8d94fafa4e359">3da22a002f607a1065b8d94fafa4e359</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AI Compliant Deep Research app">3da22a002f607a1065b8d94fafa4e359</sys_scope>
+        <sys_update_name>ais_search_profile_f26b792a2fac721065b8d94fafa4e3d7</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2025-10-15 19:37:14</sys_updated_on>
+    </ais_search_profile>
+</record_update>

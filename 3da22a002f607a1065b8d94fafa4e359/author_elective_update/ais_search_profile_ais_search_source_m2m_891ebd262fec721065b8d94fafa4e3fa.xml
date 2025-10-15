@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_search_source_m2m">
+    <ais_search_profile_ais_search_source_m2m action="DELETE">
+        <exclude_attachments_in_now_assist_genius_results>false</exclude_attachments_in_now_assist_genius_results>
+        <exclude_in_now_assist_genius_results>false</exclude_in_now_assist_genius_results>
+        <exclude_in_regular_search>false</exclude_in_regular_search>
+        <profile display_value="Compliance Research Search Profile">f26b792a2fac721065b8d94fafa4e3d7</profile>
+        <search_source display_value="">05dd75262fec721065b8d94fafa4e3df</search_source>
+        <sys_class_name>ais_search_profile_ais_search_source_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-15 17:08:11</sys_created_on>
+        <sys_id>891ebd262fec721065b8d94fafa4e3fa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Compliance Research Search Profile.</sys_name>
+        <sys_package display_value="AI Compliant Deep Research app" source="3da22a002f607a1065b8d94fafa4e359">3da22a002f607a1065b8d94fafa4e359</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AI Compliant Deep Research app">3da22a002f607a1065b8d94fafa4e359</sys_scope>
+        <sys_update_name>ais_search_profile_ais_search_source_m2m_891ebd262fec721065b8d94fafa4e3fa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-15 17:08:11</sys_updated_on>
+    </ais_search_profile_ais_search_source_m2m>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="AI Compliant Deep Research app">3da22a002f607a1065b8d94fafa4e359</application>
+        <file_path/>
+        <instance_id>e2f27be7fbb3a6505704f3585eefdcbb</instance_id>
+        <instance_name>skplayground</instance_name>
+        <name>ais_search_profile_ais_search_source_m2m_891ebd262fec721065b8d94fafa4e3fa</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_search_source_m2m"><ais_search_profile_ais_search_source_m2m action="INSERT_OR_UPDATE"><exclude_attachments_in_now_assist_genius_results>false</exclude_attachments_in_now_assist_genius_results><exclude_in_now_assist_genius_results>false</exclude_in_now_assist_genius_results><exclude_in_regular_search>false</exclude_in_regular_search><profile display_value="Compliance Research Search Profile">f26b792a2fac721065b8d94fafa4e3d7</profile><search_source display_value="">05dd75262fec721065b8d94fafa4e3df</search_source><sys_class_name>ais_search_profile_ais_search_source_m2m</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-10-15 17:08:11</sys_created_on><sys_id>891ebd262fec721065b8d94fafa4e3fa</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Compliance Research Search Profile.</sys_name><sys_package display_value="AI Compliant Deep Research app" source="3da22a002f607a1065b8d94fafa4e359">3da22a002f607a1065b8d94fafa4e359</sys_package><sys_policy/><sys_scope display_value="AI Compliant Deep Research app">3da22a002f607a1065b8d94fafa4e359</sys_scope><sys_update_name>ais_search_profile_ais_search_source_m2m_891ebd262fec721065b8d94fafa4e3fa</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-10-15 17:08:11</sys_updated_on></ais_search_profile_ais_search_source_m2m></record_update>]]></payload>
+        <payload_hash>-810937343</payload_hash>
+        <record_name>Compliance Research Search Profile.</record_name>
+        <reverted_from/>
+        <source>b4e26c492f64ba5065b8d94fafa4e353</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-15 17:08:12</sys_created_on>
+        <sys_id>491ef9662fec721065b8d94fafa4e3f1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>199e8d7f9900000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-15 17:08:12</sys_updated_on>
+        <type>AI Search Search Profile Search Source M</type>
+        <update_guid>8d1ef9666aec721088e9992b3a5f44f0</update_guid>
+        <update_guid_history>8d1ef9666aec721088e9992b3a5f44f0:-810937343</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Compliance Research Search Profile.">f21086222f20b21065b8d94fafa4e3f0</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-15 17:17:03</sys_created_on>
+        <sys_db_object display_value="" name="ais_search_profile_ais_search_source_m2m">ais_search_profile_ais_search_source_m2m</sys_db_object>
+        <sys_id>a5a9c8d9650c438aa943b6c2a09484b1</sys_id>
+        <sys_metadata>891ebd262fec721065b8d94fafa4e3fa</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Compliance Research Search Profile.</sys_name>
+        <sys_package display_value="AI Compliant Deep Research app" source="3da22a002f607a1065b8d94fafa4e359">3da22a002f607a1065b8d94fafa4e359</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="AI Compliant Deep Research app">3da22a002f607a1065b8d94fafa4e359</sys_scope>
+        <sys_scope_delete display_value="">4b6659be2f724c2fa042b59a8543c009</sys_scope_delete>
+        <sys_update_name>ais_search_profile_ais_search_source_m2m_891ebd262fec721065b8d94fafa4e3fa</sys_update_name>
+        <sys_update_version display_value="ais_search_profile_ais_search_source_m2m_891ebd262fec721065b8d94fafa4e3fa">491ef9662fec721065b8d94fafa4e3f1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-15 17:17:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
